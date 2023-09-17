@@ -1,0 +1,22 @@
+.page {
+    top: 5vh;
+    position: absolute;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column
+}
+
+.hero-section {
+    color: #FFF;
+    background: #1e1e1e;
+    border-radius: 1vw;
+    width: 90vw;
+    padding: 1vw;
+    height: 90vh;
+}
+
+.page__content {
+    display: flex;
+    justify-content: center
+}
