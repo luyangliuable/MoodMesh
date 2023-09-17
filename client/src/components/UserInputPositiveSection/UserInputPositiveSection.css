@@ -1,0 +1,29 @@
+.happy-section {
+    color: #FFF;
+}
+
+.happy-section__input {
+    font: 20px arial;
+    height: 20vh;
+    left: 0;
+    width: calc(100% - 1vw);
+}
+
+.happy-section__header {
+    border-radius: 4px;
+    background: #1e1e1e;
+    padding: 1vh 1vw;
+    width: calc(50vw - 4vw);
+}
+
+.mood-section-card {
+    background: #888;
+    height: 20vh; /* TODO fit content*/
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.happy-section {
+    margin: 2px;
+}
+
